@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+cloud_storage_72px_1169687_easyicon.net.ico
+log.txt
+test.py
