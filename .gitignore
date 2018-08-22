@@ -105,3 +105,7 @@ venv.bak/
 cloud_storage_72px_1169687_easyicon.net.ico
 log.txt
 test.py
+.idea/distinguish_nsfw_video.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
